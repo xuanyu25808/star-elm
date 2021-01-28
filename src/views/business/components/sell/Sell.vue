@@ -137,6 +137,7 @@
 	.sell-heart-icon-img {
 		margin-bottom: 16px;
 		font-size: 50px;
+		color: red;
 	}
 
 	.sell-top-nav {
